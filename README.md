@@ -17,3 +17,13 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+//instalaciones:
+Para la conexion al backend
+npm i --save axios vue-axios
+Para la auntenticacion a gmail
+npm install vue-google-oauth2
+
+//para el backend:
+npm i ejs multer
